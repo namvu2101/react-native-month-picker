@@ -60,7 +60,8 @@
   },
   "homepage": "https://github.com/namvu2101/react-native-month-picker/vpn-react-native-month-picker#readme",
   "publishConfig": {
-    "@namvu:registry": "https://registry.npmjs.org/"
+    "@namvu:registry": "https://registry.npmjs.org/",
+    "registry": "https://npm.pkg.github.com"
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^17.0.2",
